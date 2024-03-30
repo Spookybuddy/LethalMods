@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: cesspool
+  m_EditorClassIdentifier: 
+  MoonName: Cesspool
+  RequiredBundles:
+  - cesspool
+  IncompatibleBundles: []
+  IsEnabled: 1
+  IsHidden: 0
+  IsLocked: 0
+  OrbitPrefabName: Moon1
+  SpawnEnemiesAndScrap: 1
+  PlanetName: 93 Cesspool
+  MainPrefab: {fileID: 6724763041618058918, guid: 833a482f4b1b9b04f94b50e26e6c4efe, type: 3}
+  PlanetDescription: 'A marsh planet with constant rainfall, leading to daily flooding.
+    Teraforming proved fruitless, leaving behind many abandoned facilities.
+
+    Do
+    not stay too long.'
+  PlanetLore: 'The swampy terrain hides many precious resources beneath the surface.
+    Many mining operations have been attempted and large facilities built, but the
+    constant rainfall and daily flooding proved too much to deal with. Large wells
+    were even dug in an attempt to divert the rainwater, but those too ended as failures.
+
+
+    The
+    planet has since been abandoned, leaving the treasure-filled buildings to be
+    reclaimed by the planet''s flora and fauna.'
+  PlanetVideo: {fileID: 0}
+  RiskLevel: Hurry.
+  TimeToArrive: 1
+  DaySpeedMultiplier: 1
+  PlanetHasTime: 1
+  _RandomWeatherTypes:
+  - Weather: 4
+    WeatherVariable1: -144
+    WeatherVariable2: 144
+  OverwriteWeather: 1
+  OverwriteWeatherType: 4
+  RouteWord: cesspool
+  RoutePrice: 0
+  BoughtComment: Try not to drown on Company time.
+  FactorySizeMultiplier: 1.2
+  FireExitsAmountOverwrite: 4
+  _DungeonFlowTypes:
+  - ID: 0
+    Rarity: 93
+  - ID: 1
+    Rarity: 7
+  _SpawnableScrap:
+  - ObjectName: Cog1
+    SpawnWeight: 35
+  - ObjectName: FishTestProp
+    SpawnWeight: 64
+  - ObjectName: Flask
+    SpawnWeight: 50
+  - ObjectName: BigBolt
+    SpawnWeight: 40
+  - ObjectName: BottleBin
+    SpawnWeight: 32
+  - ObjectName: ChemicalJug
+    SpawnWeight: 17
+  - ObjectName: SteeringWheel
+    SpawnWeight: 47
+  - ObjectName: MoldPan
+    SpawnWeight: 16
+  - ObjectName: PickleJar
+    SpawnWeight: 69
+  - ObjectName: RubberDuckie
+    SpawnWeight: 12
+  - ObjectName: Airhorn
+    SpawnWeight: 11
+  - ObjectName: GoldBar
+    SpawnWeight: 2
+  - ObjectName: YieldSign
+    SpawnWeight: 19
+  - ObjectName: StopSign
+    SpawnWeight: 24
+  - ObjectName: RedSoda
+    SpawnWeight: 32
+  spawnableScrapBlacklist: []
+  MinScrap: 15
+  MaxScrap: 19
+  LevelAmbienceClips: Level1TypeAmbience
+  MaxEnemyPowerCount: 8
+  _Enemies:
+  - EnemyName: Centipede
+    SpawnWeight: 19
+  - EnemyName: HoarderBug
+    SpawnWeight: 21
+  - EnemyName: Flowerman
+    SpawnWeight: 5
+  - EnemyName: Crawler
+    SpawnWeight: 17
+  - EnemyName: Puffer
+    SpawnWeight: 22
+  - EnemyName: Blob
+    SpawnWeight: 23
+  - EnemyName: SandSpider
+    SpawnWeight: 16
+  EnemySpawnChanceThroughoutDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0015411377
+      value: -3
+      inSlope: 19.556997
+      outSlope: 19.556997
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.12297855
+    - serializedVersion: 3
+      time: 0.4084456
+      value: 5.2203364
+      inSlope: 50.523705
+      outSlope: 50.523705
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.39946607
+      outWeight: 0.28031763
+    - serializedVersion: 3
+      time: 0.7216382
+      value: 3.997507
+      inSlope: 2.616315
+      outSlope: 2.616315
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.29010764
+      outWeight: 0.5360636
+    - serializedVersion: 3
+      time: 1
+      value: 14.957588
+      inSlope: 5.9741244
+      outSlope: 5.9741244
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0.12752241
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SpawnProbabilityRange: 3
+  _SpawnableMapObjects:
+  - ObjectName: Landmine
+    SpawnFacingAwayFromWall: 0
+    SpawnRate:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.0030822754
+        value: 0
+        inSlope: 0.23179345
+        outSlope: 0.23179345
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0.2713006
+      - serializedVersion: 3
+        time: 0.55
+        value: 1
+        inSlope: 4.017303
+        outSlope: 4.017303
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.244657
+        outWeight: 0.37152186
+      - serializedVersion: 3
+        time: 0.82
+        value: 2
+        inSlope: 7.064207
+        outSlope: 7.064207
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.2839884
+        outWeight: 0.6898178
+      - serializedVersion: 3
+        time: 1
+        value: 14
+        inSlope: 968.8081
+        outSlope: 968.8081
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.029036392
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  _SpawnableOutsideObjects: []
+  MaxOutsideEnemyPowerCount: 14
+  MaxDaytimeEnemyPowerCount: 7
+  _OutsideEnemies:
+  - EnemyName: MouthDog
+    SpawnWeight: 41
+  - EnemyName: BaboonHawk
+    SpawnWeight: 8
+  - EnemyName: ForestGiant
+    SpawnWeight: 25
+  - EnemyName: SandWorm
+    SpawnWeight: 38
+  - EnemyName: Blob
+    SpawnWeight: 2
+  _DaytimeEnemies:
+  - EnemyName: RedLocustBees
+    SpawnWeight: 71
+  - EnemyName: DocileLocustBees
+    SpawnWeight: 41
+  OutsideEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: -3
+      inSlope: -Infinity
+      outSlope: 5.5555553
+      tangentMode: 69
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.18
+      value: -2
+      inSlope: 29.048048
+      outSlope: 29.048048
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.21085063
+      outWeight: 0.4734847
+    - serializedVersion: 3
+      time: 1
+      value: 7.5
+      inSlope: 67.26841
+      outSlope: 67.26841
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.12782893
+      outWeight: 0.48315445
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 2.2706568
+      inSlope: -7.5000854
+      outSlope: -7.5000854
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.20650266
+    - serializedVersion: 3
+      time: 0.38507816
+      value: -0.006410897
+      inSlope: -2.7670975
+      outSlope: -2.7670975
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.28388944
+      outWeight: 0.30659768
+    - serializedVersion: 3
+      time: 0.6767025
+      value: -7.0216584
+      inSlope: -27.286888
+      outSlope: -27.286888
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10391547
+      outWeight: 0.12503523
+    - serializedVersion: 3
+      time: 0.9998173
+      value: -14.818101
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemiesProbabilityRange: 7
+  LevelIncludesSnowFootprints: 0
+  serializedRandomWeatherTypes: 4,-144,144
+  serializedDungeonFlowTypes: 0,93;1,7
+  serializedSpawnableScrap: Cog1,35;FishTestProp,64;Flask,50;BigBolt,40;BottleBin,32;ChemicalJug,17;SteeringWheel,47;MoldPan,16;PickleJar,69;RubberDuckie,12;Airhorn,11;GoldBar,2;YieldSign,19;StopSign,24;RedSoda,32
+  serializedEnemies: Centipede,19;HoarderBug,21;Flowerman,5;Crawler,17;Puffer,22;Blob,23;SandSpider,16
+  serializedOutsideEnemies: MouthDog,41;BaboonHawk,8;ForestGiant,25;SandWorm,38;Blob,2
+  serializedDaytimeEnemies: RedLocustBees,71;DocileLocustBees,41
+  serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":0.23179344832897187,"outSlope":0.23179344832897187,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27130061388015749},{"serializedVersion":"3","time":0.550000011920929,"value":1.0,"inSlope":4.017302989959717,"outSlope":4.017302989959717,"tangentMode":0,"weightedMode":3,"inWeight":0.2446569949388504,"outWeight":0.37152186036109927},{"serializedVersion":"3","time":0.8199999928474426,"value":2.0,"inSlope":7.064207077026367,"outSlope":7.064207077026367,"tangentMode":0,"weightedMode":3,"inWeight":0.2839883863925934,"outWeight":0.6898177862167358},{"serializedVersion":"3","time":1.0,"value":14.0,"inSlope":968.80810546875,"outSlope":968.80810546875,"tangentMode":0,"weightedMode":3,"inWeight":0.029036391526460649,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
+  serializedSpawnableOutsideObjects: 

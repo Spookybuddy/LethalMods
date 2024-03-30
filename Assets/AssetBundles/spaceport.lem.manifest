@@ -1,0 +1,431 @@
+ManifestFileVersion: 0
+CRC: 3778501029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 344afdf3602a34408eb2fdf641401b7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4125194738dfea56f0beeb144b3711db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 344afdf3602a34408eb2fdf641401b7d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1247577677, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1536622716, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -945623945, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpMinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadeEndBorderParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadePartitionSplitParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Object]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
+Assets:
+- Assets/Mods/SpacePort/mesh/Wires.fbx
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_hull_main_emissive.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_LowerGrate_BaseMap_HD.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_engines_base_color.png
+- Assets/Mods/SpacePort/materials/floor.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_glass_basecolor.png
+- Assets/Mods/SpacePort/mesh/levitater.fbx
+- Assets/Mods/SpacePort/materials/catwalks-upper.mat
+- Assets/Mods/SpacePort/materials/ships/solarius dome.mat
+- Assets/Mods/SpacePort/textures/Crate 1x1 0.2_Crate 1x1_Normal.png
+- Assets/Mods/SpacePort/materials/wires.mat
+- Assets/Mods/SpacePort/moons/solarius.prefab
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Inner_Normal.png
+- Assets/Mods/SpacePort/textures/MainEntrance.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_glass_mask.png
+- Assets/Mods/SpacePort/materials/Shader/blink offset 3.mat
+- Assets/Mods/SpacePort/materials/ledges.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Roof_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Back_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_LowerGrate_Normal_HD.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Posts_MaskMap.png
+- Assets/Mods/SpacePort/materials/ladder.mat
+- Assets/Mods/SpacePort/textures/_updated/spaceship/spaceship_normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Posts_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_hull_base_color.png
+- Assets/Mods/SpacePort/materials/Shader/blink offset 0.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Back_MaskMap.png
+- Assets/Mods/SpacePort/textures/Pole_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_sails_normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Tunnel_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Ladder_DefaultMaterial_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Beneath_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Doorways_MaskMap.png
+- Assets/Mods/SpacePort/materials/Shader/Blinking Light.shadergraph
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_hull_main_normal.png
+- Assets/Mods/SpacePort/prefabs/Crate 1x1 0.2.prefab
+- Assets/Mods/SpacePort/textures/_updated/vorpal/vorpal_normal_opengl.png
+- Assets/Mods/SpacePort/mesh/armalon.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_LowerGrate_MaskMap_HD.png
+- Assets/Mods/SpacePort/textures/_updated/solar_sails_skybox_test_edit_2.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Tunnel_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Ledges_BaseMap_v2.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Left_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Stairs_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_engine_basecolor.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Platform_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Edges_BaseMap.png
+- Assets/Mods/SpacePort/materials/ships/solarius sails.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Edges_Normal.png
+- Assets/Mods/SpacePort/materials/wall-left.mat
+- Assets/Mods/SpacePort/moons/solarius.asset
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_hull_observation_normal.png
+- Assets/Mods/SpacePort/materials/posts.mat
+- Assets/Mods/SpacePort/prefabs/Barrel 1 0.2.prefab
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_hull_observation_mask.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Barricade_MaskMap.png
+- Assets/Mods/SpacePort/textures/Pole_basemap.jpg
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wire_MaskMap.png
+- Assets/Mods/SpacePort/materials/crate large.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_UpperGrate_Normal_HD.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_sails_mask.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_engines_emissive.png
+- Assets/Mods/SpacePort/materials/wall-back.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Platform_BaseMap.png
+- Assets/Mods/SpacePort/materials/ships/solarius hull.mat
+- Assets/Mods/SpacePort/materials/catwalks-lower.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsLower_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Ladder_DefaultMaterial_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Beneath_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Doorways_Normal.png
+- Assets/Mods/SpacePort/materials/ships/spaceship.mat
+- Assets/Mods/SpacePort/materials/catwalks-edges.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Barricade_BaseMap.png
+- Assets/Mods/SpacePort/materials/doorways.mat
+- Assets/Mods/SpacePort/textures/Crate 2x3_DefaultMaterial_BaseColor.png
+- Assets/Mods/SpacePort/mesh/add-on.fbx
+- Assets/Mods/SpacePort/materials/roof.mat
+- Assets/Mods/SpacePort/mesh/Full.fbx
+- Assets/Mods/SpacePort/materials/wall-interior.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_OuterGrate_BaseMap_HD.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Beneath_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_wings_normal.png
+- Assets/Mods/SpacePort/materials/ships/journey head.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Stairs_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_engines_normal_opengl.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsLower_BaseMap.png
+- Assets/Mods/SpacePort/mesh/Volume.fbx
+- Assets/Mods/SpacePort/textures/Barrel 1 0.2_DefaultMaterial_BaseColor.png
+- Assets/Mods/SpacePort/textures/_updated/armalon/armalon_normal_opengl.png
+- Assets/Mods/SpacePort/materials/ships/armalon.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_hull_main_basecolor.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_head_base_color.png
+- Assets/Mods/SpacePort/mesh/decimated.fbx
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_wings_mask.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Tunnel_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/armalon/armalon_base_color.png
+- Assets/Mods/SpacePort/textures/_updated/spaceship/spaceship_base_color.png
+- Assets/Mods/SpacePort/mesh/Crate 2x3.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Topper_MaskMap.png
+- Assets/Mods/SpacePort/textures/Crate 1x1 0.2_Crate 1x1_BaseColor.png
+- Assets/Mods/SpacePort/materials/tunnel.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_hull_main_mask.png
+- Assets/Mods/SpacePort/mesh/MainDoor.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Left_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/hoverboard/hoverboard_n2.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Floor_BaseMap_v2.png
+- Assets/Mods/SpacePort/prefabs/Crate 2x3.prefab
+- Assets/Mods/SpacePort/materials/wall-middle.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/legs_normal_opengl.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Ladder_DefaultMaterial_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Ledges_Normal.png
+- Assets/Mods/SpacePort/mesh/spin.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Roof_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/spaceship/spaceship_mask.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Floor_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsUpper_Normal.png
+- Assets/Mods/SpacePort/mesh/hoverboard.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Doorways_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Mid_Normal.png
+- Assets/Mods/SpacePort/materials/ships/solarius engine.mat
+- Assets/Mods/SpacePort/textures/_updated/levitator/levitator_base_color.png
+- Assets/Mods/SpacePort/materials/catwalks-outer.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Topper_BaseMap.png
+- Assets/Mods/SpacePort/mesh/spaceship.fbx
+- Assets/Mods/SpacePort/textures/_updated/levitator/levitator_normal_opengl.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Edges_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_UpperGrate_MaskMap_HD.png
+- Assets/Mods/SpacePort/mesh/FireExit.fbx
+- Assets/Mods/SpacePort/mesh/solarius -4.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Right_MaskMap.png
+- Assets/Mods/SpacePort/materials/ships/journey hull.mat
+- Assets/Mods/SpacePort/materials/sol-fire.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/ship_engine_mask.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_hull_observation_basecolor.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_hull_mask.png
+- Assets/Mods/SpacePort/textures/FireDoor.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_sails_basecolor.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Back_BaseMap.png
+- Assets/Mods/SpacePort/mesh/Crate 1x1 0.2.fbx
+- Assets/Mods/SpacePort/materials/ships/vorpal.mat
+- Assets/Mods/SpacePort/prefabs/Beam.prefab
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_wings_basecolor.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wire_Normal.png
+- Assets/Mods/SpacePort/materials/ships/levitater.mat
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_head_mask.png
+- Assets/Mods/SpacePort/materials/poles.mat
+- Assets/Mods/SpacePort/mesh/orbit.controller
+- Assets/Mods/SpacePort/materials/Shader/blink offset 1.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_OuterGrate_Normal_HD.png
+- Assets/Mods/SpacePort/textures/_updated/vorpal/vorpal_maskmap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Ledges_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Stairs_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Inner_BaseMap_v2.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/legs_mask.png
+- Assets/Mods/SpacePort/textures/FireDoor_Normal.png
+- Assets/Mods/SpacePort/materials/blockade.mat
+- Assets/Mods/SpacePort/materials/wall-decal.mat
+- Assets/Mods/SpacePort/textures/Barrel 1 0.2_DefaultMaterial_Normal.png
+- Assets/Mods/SpacePort/materials/ships/solarius legs.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_OuterGrate_MaskMap_HD.png
+- Assets/Mods/SpacePort/materials/ships/hoverboard.mat
+- Assets/Mods/SpacePort/materials/sky and fog global volume profile 1.asset
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Floor_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_UpperGrate_BaseMap_HD.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Right_Normal.png
+- Assets/Mods/SpacePort/materials/barrel.mat
+- Assets/Mods/SpacePort/materials/wall-right.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Posts_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/hoverboard/hoverboard_c.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Left_Normal.png
+- Assets/Mods/SpacePort/moons/solariusNavMesh.asset
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Topper_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Platform_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wire_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_hull_normal_opengl.png
+- Assets/Mods/SpacePort/textures/_updated/armalon/armalon_maskmap.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Barricade_Normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsLower_MaskMap.png
+- Assets/Mods/SpacePort/materials/fence-lower.mat
+- Assets/Mods/SpacePort/materials/crate small.mat
+- Assets/Mods/SpacePort/materials/stairs.mat
+- Assets/Mods/SpacePort/mesh/Ladder.fbx
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Roof_MaskMap.png
+- Assets/Mods/SpacePort/materials/ships/solarius glass.mat
+- Assets/Mods/SpacePort/materials/fence-upper.mat
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_head_normal_opengl.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Inner_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/journey/journey_engines_mask.png
+- Assets/Mods/SpacePort/materials/ships/solarius wings.mat
+- Assets/Mods/SpacePort/mesh/Barrel 1 0.2.fbx
+- Assets/Mods/SpacePort/materials/underside.mat
+- Assets/Mods/SpacePort/textures/_updated/solarius/player ship test 6_engine_normal.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Mid_BaseMap.png
+- Assets/Mods/SpacePort/mesh/vorpal.fbx
+- Assets/Mods/SpacePort/textures/_updated/hoverboard/hoverboard_mask.png
+- Assets/Mods/SpacePort/textures/_updated/levitator/levitator_mask.png
+- Assets/Mods/SpacePort/materials/Shader/blink offset 2.mat
+- Assets/Mods/SpacePort/modmanifest.asset
+- Assets/Mods/SpacePort/textures/Crate 2x3_DefaultMaterial_Normal.png
+- Assets/Mods/SpacePort/materials/ships/journey engine.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Mid_MaskMap.png
+- Assets/Mods/SpacePort/solariusmodassetbank.asset
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_Wall_Right_BaseMap.png
+- Assets/Mods/SpacePort/materials/sol-main.mat
+- Assets/Mods/SpacePort/materials/platform.mat
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsUpper_MaskMap.png
+- Assets/Mods/SpacePort/textures/_updated/solarius/legs_base_color.png
+- Assets/Mods/SpacePort/textures/_updated/_full/Full_BeamsUpper_BaseMap.png
+- Assets/Mods/SpacePort/textures/_updated/vorpal/vorpal_base_color.png
+Dependencies:
+- C:/Users/Jimmy/Downloads/Lethal Mods/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem

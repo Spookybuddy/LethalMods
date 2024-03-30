@@ -1,0 +1,303 @@
+ManifestFileVersion: 0
+CRC: 400402272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd5a72302c6aaecfa8548cfb0a3bbd78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 138a35f99154598f9842741da75eacce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd5a72302c6aaecfa8548cfb0a3bbd78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpMinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadeEndBorderParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadePartitionSplitParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+Assets:
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe_Material_BaseMap.png
+- Assets/Mods/Cesspool/materials/cess-fire.mat
+- Assets/Mods/Cesspool/materials/mangrove.mat
+- Assets/Mods/Cesspool/textures/custom/chainlinkfence.png
+- Assets/Mods/Cesspool/textures/custom/cloudy.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe_Material_MaskMap.png
+- Assets/Mods/Cesspool/textures/custom/Spiral.png
+- Assets/Mods/Cesspool/mesh/Shrubbery.fbx
+- Assets/Mods/Cesspool/textures/custom/well_normal.png
+- Assets/Mods/Cesspool/materials/fencePosts.mat
+- Assets/Mods/Cesspool/materials/basin.mat
+- Assets/Mods/Cesspool/prefabs/Drainage.prefab
+- Assets/Mods/Cesspool/textures/custom/MainEntrance.png
+- Assets/Mods/Cesspool/moons/sewers.prefab
+- Assets/Mods/Cesspool/materials/drain.mat
+- Assets/Mods/Cesspool/moons/sewersNavMesh.asset
+- Assets/Mods/Cesspool/textures/substance/floor_mask.png
+- Assets/Mods/Cesspool/textures/substance/Terrain_Albedo_HD.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Drain_DefaultMaterial_Normal.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe_Material_Normal.png
+- Assets/Mods/Cesspool/textures/custom/Posts_Rust.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Block_DefaultMaterial_MaskMap.png
+- Assets/Mods/Cesspool/textures/custom/Bar.png
+- Assets/Mods/Cesspool/prefabs/Corner.prefab
+- Assets/Mods/Cesspool/textures/substance/Cess-Hole_DefaultMaterial_BaseMap.png
+- Assets/Mods/Cesspool/materials/valve.mat
+- Assets/Mods/Cesspool/materials/Bush2.mat
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Corner_Material_BaseMap.png
+- Assets/Mods/Cesspool/prefabs/Segment.prefab
+- Assets/Mods/Cesspool/materials/underwell.mat
+- Assets/Mods/Cesspool/materials/pipe-corner.mat
+- Assets/Mods/Cesspool/textures/substance/Cess-Hole_DefaultMaterial_MaskMap.png
+- Assets/Mods/Cesspool/textures/custom/Steps_Normal.png
+- Assets/Mods/Cesspool/materials/cess-main.mat
+- Assets/Mods/Cesspool/textures/custom/well_base_color2.png
+- Assets/Mods/Cesspool/textures/custom/FireDoor_Normal.png
+- Assets/Mods/Cesspool/textures/custom/Bar_Normal.png
+- Assets/Mods/Cesspool/mesh/Foliage2.fbx
+- Assets/Mods/Cesspool/prefabs/Foliage2.prefab
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Corner_Material_Normal.png
+- Assets/Mods/Cesspool/prefabs/Manhole.prefab
+- Assets/Mods/Cesspool/materials/pipe-bolts.mat
+- Assets/Mods/Cesspool/textures/custom/underwell_normal.png
+- Assets/Mods/Cesspool/materials/sun.mat
+- Assets/Mods/Cesspool/textures/custom/antenna_base_color.png
+- Assets/Mods/Cesspool/mesh/CessDecor.fbx
+- Assets/Mods/Cesspool/materials/sky and fog global volume cesspool.asset
+- Assets/Mods/Cesspool/textures/substance/Cess-Tree_DefaultMaterial_MaskMap.png
+- Assets/Mods/Cesspool/textures/custom/FireDoor.png
+- Assets/Mods/Cesspool/textures/substance/Terrain_Mask_HD.png
+- Assets/Mods/Cesspool/mesh/Sewers.fbx
+- Assets/Mods/Cesspool/textures/substance/Shrub_Mask.png
+- Assets/Mods/Cesspool/prefabs/Pipe.prefab
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Bolts_Material_Normal.png
+- Assets/Mods/Cesspool/materials/terra HD.mat
+- Assets/Mods/Cesspool/materials/abyss.mat
+- Assets/Mods/Cesspool/materials/well.mat
+- Assets/Mods/Cesspool/textures/substance/distant_mask.png
+- Assets/Mods/Cesspool/textures/substance/floor_normal.png
+- Assets/Mods/Cesspool/prefabs/Mangrove.prefab
+- Assets/Mods/Cesspool/textures/substance/Terrain_Normal_HD.png
+- Assets/Mods/Cesspool/textures/custom/Cesspool_SkyboxTest0.2.png
+- Assets/Mods/Cesspool/materials/fenceBar.mat
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Bolts_Material_MaskMap.png
+- Assets/Mods/Cesspool/materials/pipe-block.mat
+- Assets/Mods/Cesspool/mesh/FireExit.fbx
+- Assets/Mods/Cesspool/textures/substance/distant_normal_opengl.png
+- Assets/Mods/Cesspool/materials/chainlink.mat
+- Assets/Mods/Cesspool/materials/pipe.mat
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Bolts_Material_BaseMap.png
+- Assets/Mods/Cesspool/textures/custom/antenna_normal.png
+- Assets/Mods/Cesspool/textures/substance/Shrub_Albedo.png
+- Assets/Mods/Cesspool/modmanifest.asset
+- Assets/Mods/Cesspool/materials/farlands.mat
+- Assets/Mods/Cesspool/textures/substance/floor_alpha.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Drain_DefaultMaterial_MaskMap.png
+- Assets/Mods/Cesspool/moons/cesspool.asset
+- Assets/Mods/Cesspool/textures/substance/Cess-Block_DefaultMaterial_BaseMap.png
+- Assets/Mods/Cesspool/materials/manhole.mat
+- Assets/Mods/Cesspool/prefabs/Bolts.prefab
+- Assets/Mods/Cesspool/textures/substance/Shrub_Normal.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Pipe-Corner_Material_MaskMap.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Hole_DefaultMaterial_Normal.png
+- Assets/Mods/Cesspool/prefabs/Valve.prefab
+- Assets/Mods/Cesspool/mesh/boundaries.fbx
+- Assets/Mods/Cesspool/textures/substance/Cess-Tree_DefaultMaterial_Normal.png
+- Assets/Mods/Cesspool/textures/custom/chainlinkfence_Normal.png
+- Assets/Mods/Cesspool/materials/radio.mat
+- Assets/Mods/Cesspool/textures/custom/well_base_color.png
+- Assets/Mods/Cesspool/textures/custom/Posts_Normal.png
+- Assets/Mods/Cesspool/sewerassetbank.asset
+- Assets/Mods/Cesspool/textures/substance/Cess-Block_DefaultMaterial_Normal.png
+- Assets/Mods/Cesspool/textures/custom/Valve.png
+- Assets/Mods/Cesspool/materials/steps.mat
+- Assets/Mods/Cesspool/materials/cess-fire-map.mat
+- Assets/Mods/Cesspool/prefabs/WallPipe.prefab
+- Assets/Mods/Cesspool/materials/cess-main-map.mat
+- Assets/Mods/Cesspool/mesh/MainDoor.fbx
+- Assets/Mods/Cesspool/textures/substance/distant_base_color.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Tree_DefaultMaterial_BaseMap.png
+- Assets/Mods/Cesspool/textures/substance/Cess-Drain_DefaultMaterial_BaseMap.png
+Dependencies:
+- C:/Users/Jimmy/Downloads/Lethal Mods/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem

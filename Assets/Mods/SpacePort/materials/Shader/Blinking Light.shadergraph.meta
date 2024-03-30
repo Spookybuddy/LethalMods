@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c33f3e6bca3b31b498227d795be4cda0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: spaceport
+  assetBundleVariant: lem
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}

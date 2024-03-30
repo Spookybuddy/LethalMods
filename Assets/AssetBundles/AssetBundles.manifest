@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3271603643
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lethalexpansion.lem
+      Dependencies: {}
+    Info_1:
+      Name: templatemod.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem
+    Info_2:
+      Name: spaceport.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem
+    Info_3:
+      Name: cesspool.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem

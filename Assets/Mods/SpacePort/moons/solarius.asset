@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: solarius
+  m_EditorClassIdentifier: 
+  MoonName: Solarius
+  RequiredBundles:
+  - spaceport
+  IncompatibleBundles: []
+  IsEnabled: 1
+  IsHidden: 0
+  IsLocked: 0
+  OrbitPrefabName: Solarius
+  SpawnEnemiesAndScrap: 1
+  PlanetName: 4 Solarius
+  MainPrefab: {fileID: 5122121225184464015, guid: cf1acb952d2debe47bc1be7a31ad3a5d, type: 3}
+  PlanetDescription: 'A large space station serving as a nexus for intergalactic
+    travellers.
+
+
+    The staff are not friendly.'
+  PlanetLore: 'The large space station provides a rest stop for refueling and supplies.
+    Large hangars provide ample space for landing ships. Just be careful to not fall
+    off the station...
+
+
+    While the staff may attempt to chase you into your ship,
+    they are not rude enough to actually enter it. They also avoid the upper catwalks,
+    as they are unsafe. Extension ladders are useful as they allow for easy access
+    to upper sections.
+
+
+    And when inside, making loud noises is not advised...'
+  PlanetVideo: {fileID: 0}
+  RiskLevel: ???
+  TimeToArrive: 1
+  DaySpeedMultiplier: 1
+  PlanetHasTime: 1
+  _RandomWeatherTypes:
+  - Weather: -1
+    WeatherVariable1: 0
+    WeatherVariable2: 0
+  - Weather: 3
+    WeatherVariable1: 1
+    WeatherVariable2: 0
+  - Weather: 5
+    WeatherVariable1: 3
+    WeatherVariable2: 0
+  OverwriteWeather: 0
+  OverwriteWeatherType: -1
+  RouteWord: solarius
+  RoutePrice: 0
+  BoughtComment: Docking to port.
+  FactorySizeMultiplier: 1.6
+  FireExitsAmountOverwrite: 2
+  _DungeonFlowTypes:
+  - ID: 0
+    Rarity: 100
+  - ID: 1
+    Rarity: 0
+  _SpawnableScrap:
+  - ObjectName: GoldBar
+    SpawnWeight: 7
+  - ObjectName: AirHorn
+    SpawnWeight: 99
+  - ObjectName: StopSign
+    SpawnWeight: 88
+  spawnableScrapBlacklist: []
+  MinScrap: 19
+  MaxScrap: 32
+  LevelAmbienceClips: Level1TypeAmbience
+  MaxEnemyPowerCount: 19
+  _Enemies:
+  - EnemyName: Flowerman
+    SpawnWeight: 19
+  - EnemyName: MaskedPlayerEnemy
+    SpawnWeight: 31
+  - EnemyName: MouthDog
+    SpawnWeight: 13
+  - EnemyName: Nutcracker
+    SpawnWeight: 28
+  - EnemyName: Jester
+    SpawnWeight: 18
+  - EnemyName: HoarderBug
+    SpawnWeight: 21
+  - EnemyName: DressGirl
+    SpawnWeight: 1
+  EnemySpawnChanceThroughoutDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.000654501
+      value: -3
+      inSlope: 146.96906
+      outSlope: 146.96906
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.060801994
+    - serializedVersion: 3
+      time: 0.25
+      value: 1
+      inSlope: 41.437313
+      outSlope: 41.437313
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.37712467
+      outWeight: 0.5516896
+    - serializedVersion: 3
+      time: 0.5
+      value: 0
+      inSlope: 1.5471852
+      outSlope: 1.5471852
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.22469783
+      outWeight: 0.56668484
+    - serializedVersion: 3
+      time: 1
+      value: 15
+      inSlope: 12.275692
+      outSlope: 12.275692
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0.27418235
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SpawnProbabilityRange: 5
+  _SpawnableMapObjects:
+  - ObjectName: Landmine
+    SpawnFacingAwayFromWall: 0
+    SpawnRate:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.0030822754
+        value: 0
+        inSlope: 2.901861
+        outSlope: 2.901861
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0.57969177
+      - serializedVersion: 3
+        time: 0.2
+        value: 1
+        inSlope: 9.481236
+        outSlope: 9.481236
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.154704
+        outWeight: 0.46896213
+      - serializedVersion: 3
+        time: 0.25
+        value: 2
+        inSlope: 5.680413
+        outSlope: 5.680413
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.3042355
+        outWeight: 0.36422998
+      - serializedVersion: 3
+        time: 0.5
+        value: 6
+        inSlope: 13.8663
+        outSlope: 13.8663
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.75490916
+        outWeight: 0.19144282
+      - serializedVersion: 3
+        time: 1
+        value: 11
+        inSlope: 8.01201
+        outSlope: 8.01201
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.5047246
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - ObjectName: TurretContainer
+    SpawnFacingAwayFromWall: 1
+    SpawnRate:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.35461718
+        outSlope: 0.35461718
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.3
+        value: 4
+        inSlope: -4.9143987
+        outSlope: -1045.7488
+        tangentMode: 1
+        weightedMode: 3
+        inWeight: 0.3534803
+        outWeight: 0.0021232453
+      - serializedVersion: 3
+        time: 1
+        value: 7
+        inSlope: 46.847267
+        outSlope: 46.847267
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.31156123
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  _SpawnableOutsideObjects: []
+  MaxOutsideEnemyPowerCount: 6
+  MaxDaytimeEnemyPowerCount: 3
+  _OutsideEnemies:
+  - EnemyName: MouthDog
+    SpawnWeight: 18
+  - EnemyName: MaskedPlayerEnemy
+    SpawnWeight: 28
+  - EnemyName: Nutcracker
+    SpawnWeight: 38
+  - EnemyName: Puffer
+    SpawnWeight: 16
+  - EnemyName: DressGirl
+    SpawnWeight: 6
+  _DaytimeEnemies:
+  - EnemyName: RedLocustBees
+    SpawnWeight: 0
+  - EnemyName: Doublewing
+    SpawnWeight: 0
+  - EnemyName: DocileLocustBees
+    SpawnWeight: 0
+  OutsideEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.5
+      inSlope: -55.28798
+      outSlope: -55.28798
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.12837106
+    - serializedVersion: 3
+      time: 0.19908579
+      value: -0.0014712512
+      inSlope: -0.05496053
+      outSlope: -0.05496053
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.68489
+      outWeight: 0.77902687
+    - serializedVersion: 3
+      time: 0.37545443
+      value: 1
+      inSlope: 21.161348
+      outSlope: 21.161348
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.19232874
+      outWeight: 0.20439762
+    - serializedVersion: 3
+      time: 1.0052626
+      value: 5.3397093
+      inSlope: 15.750067
+      outSlope: 15.750067
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.5366752
+      outWeight: 0.48315445
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemySpawnChanceThroughDay:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0018920898
+      value: 3.3980944
+      inSlope: 1.7456094
+      outSlope: 1.7456094
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.82062423
+    - serializedVersion: 3
+      time: 0.16022192
+      value: 0.07145557
+      inSlope: -2.5416853
+      outSlope: -2.5416853
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.7138724
+      outWeight: 0.30659768
+    - serializedVersion: 3
+      time: 0.6767025
+      value: -7.0216584
+      inSlope: -27.286888
+      outSlope: -27.286888
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10391547
+      outWeight: 0.12503523
+    - serializedVersion: 3
+      time: 0.9998173
+      value: -14.818101
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DaytimeEnemiesProbabilityRange: 3
+  LevelIncludesSnowFootprints: 0
+  serializedRandomWeatherTypes: -1,0,0;3,1,0;5,3,0
+  serializedDungeonFlowTypes: 0,100;1,0
+  serializedSpawnableScrap: GoldBar,7;AirHorn,99;StopSign,88
+  serializedEnemies: Flowerman,19;MaskedPlayerEnemy,31;MouthDog,13;Nutcracker,28;Jester,18;HoarderBug,21;DressGirl,1
+  serializedOutsideEnemies: MouthDog,18;MaskedPlayerEnemy,28;Nutcracker,38;Puffer,16;DressGirl,6
+  serializedDaytimeEnemies: RedLocustBees,0;Doublewing,0;DocileLocustBees,0
+  serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":2.9018609523773195,"outSlope":2.9018609523773195,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.5796917676925659},{"serializedVersion":"3","time":0.20000000298023225,"value":1.0,"inSlope":9.481236457824707,"outSlope":9.481236457824707,"tangentMode":0,"weightedMode":3,"inWeight":0.1547040045261383,"outWeight":0.4689621329307556},{"serializedVersion":"3","time":0.25,"value":2.0,"inSlope":5.680412769317627,"outSlope":5.680412769317627,"tangentMode":0,"weightedMode":3,"inWeight":0.3042354881763458,"outWeight":0.3642299771308899},{"serializedVersion":"3","time":0.5,"value":6.0,"inSlope":13.866299629211426,"outSlope":13.866299629211426,"tangentMode":0,"weightedMode":3,"inWeight":0.7549091577529907,"outWeight":0.1914428174495697},{"serializedVersion":"3","time":1.0,"value":11.0,"inSlope":8.012009620666504,"outSlope":8.012009620666504,"tangentMode":0,"weightedMode":3,"inWeight":0.5047246217727661,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}};TurretContainer|True|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.354617178440094,"outSlope":0.354617178440094,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":0.30000001192092898,"value":4.0,"inSlope":-4.914398670196533,"outSlope":-1045.748779296875,"tangentMode":1,"weightedMode":3,"inWeight":0.3534803092479706,"outWeight":0.00212324527092278},{"serializedVersion":"3","time":1.0,"value":7.0,"inSlope":46.847267150878909,"outSlope":46.847267150878909,"tangentMode":0,"weightedMode":3,"inWeight":0.3115612268447876,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
+  serializedSpawnableOutsideObjects: 
