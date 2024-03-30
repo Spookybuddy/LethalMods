@@ -2,18 +2,24 @@
 Made using [Lethal Company SDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
 
 # Features:
-### Custom Moons:
+**Custom Moons:**
 - Solarius
 - Cesspool
 
 # [Solarius](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/Solarius/)
-### A space station full of ships and loot. However, the staff there do not take kindly to thieves...
+**A space station full of ships and loot. However, the staff there do not take kindly to thieves...**
 
 ![Solarius](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-Hangar.png)
 :-:
 The large space station provides a rest stop for refueling and supplies. Large hangars provide ample space for landing ships. Just be careful to not fall off the station. And when inside, making loud noises is not advised...
 
-*Map has minimal scrap spawns, providing ample chance to find custom scrap if those mods are also installed.*
+<div align="center"> Map has minimal scrap spawns, providing ample chance to find custom scrap if those mods are also installed. </div>
+ 
+# Moon Details
+
+| Name | Risk Level | Cost | Interior | Map Size Multiplier | Minimum Scrap | Maximum Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Solarius | ??? | 0 | Factory | 1.6 | 19 | 32 | 19 | 6 | Foggy, Eclipsed |
 
 | Interior Enemies | Spawn Chance | | Exterior Enemies| Spawn Chance |
 |:-:|:-:|:-:|:-:|:-:|
@@ -24,19 +30,25 @@ The large space station provides a rest stop for refueling and supplies. Large h
 | [Jester](https://lethal.miraheze.org/wiki/Jester) | 13.74% | | [Ghost Girl](https://lethal.miraheze.org/wiki/Ghost_Girl) | 5.66% |
 | [Eyeless Dog](https://lethal.miraheze.org/wiki/Eyeless_Dog) | 9.92% |‎ | | |
 | [Ghost Girl](https://lethal.miraheze.org/wiki/Ghost_Girl) | 0.76% |‎ | | |
-
+  
 | Interior Spawn Curve | Exterior Spawn Curve |
 |:-:|:-:|
 |![Solarius Interior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-In-Curve.png)|![Solarius Exterior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-Out-Curve.png)|
 
 # [Cesspool](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/Cesspool/)
-### Permanent rainfall leads to daily flooding. Do not stay too long...
+**Permanent rainfall leads to daily flooding. Do not stay too long...**
 
 ![Cesspool](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-Ship.png)
 :-:
 The swampy terrain hides many precious resources beneath the surface. Countless mining operations have been attempted and large facilities built, but the constant rainfall and daily flooding proved too much to deal with.
 
-The planet has since been abandoned, leaving the treasure-filled buildings to be reclaimed by the planet's flora and fauna.
+<div align="center"> The planet has since been abandoned, leaving the treasure-filled buildings to be reclaimed by the planet's flora and fauna. </div>
+
+# Moon Details
+
+| Name | Risk Level | Cost | Interior | Map Size Multiplier | Minimum Scrap | Maximum Scrap | Max Indoor Power | Max Outdoor Power | Weather |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Cesspool | Hurry | 0 | Factory | 1.2 | 15 | 19 | 8 | 14 | Always Flooded |
 
 | Interior Enemies | Spawn Chance |  | Exterior Enemies | Spawn Chance |
 |:-:|:-:|:-:|:-:|:-:|
