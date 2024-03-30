@@ -17,11 +17,11 @@ The large space station provides a rest stop for refueling and supplies. Large h
  
 # Moon Details
 
-| Name | Risk Level | Cost | Interior | Map Size Multiplier | Minimum Scrap | Maximum Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
+| Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Solarius | ??? | 0 | Factory | 1.6 | 19 | 32 | 19 | 6 | Foggy, Eclipsed |
+| Solarius | ??? | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.6 | 19 | 32 | 19 | 6 | Foggy, Eclipsed |
 
-| Interior Enemies | Spawn Chance | | Exterior Enemies| Spawn Chance |
+| Indoor Enemies | Spawn Chance | | Outdoor Enemies| Spawn Chance |
 |:-:|:-:|:-:|:-:|:-:|
 | [Masked](https://lethal.miraheze.org/wiki/Masks_(Enemy)) | 23.66% |‎ | [Nutcracker](https://lethal.miraheze.org/wiki/Nutcracker) | 35.85% |
 | [Nutcracker](https://lethal.miraheze.org/wiki/Nutcracker) | 21.37% |‎ | [Masked](https://lethal.miraheze.org/wiki/Masks_(Enemy)) | 26.42% |
@@ -31,9 +31,9 @@ The large space station provides a rest stop for refueling and supplies. Large h
 | [Eyeless Dog](https://lethal.miraheze.org/wiki/Eyeless_Dog) | 9.92% |‎ | | |
 | [Ghost Girl](https://lethal.miraheze.org/wiki/Ghost_Girl) | 0.76% |‎ | | |
   
-| Interior Spawn Curve | Exterior Spawn Curve |
+| Indoor Spawn Curve | Outdoor Spawn Curve |
 |:-:|:-:|
-|![Solarius Interior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-In-Curve.png)|![Solarius Exterior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-Out-Curve.png)|
+|![Solarius Indoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-In-Curve.png)|![Solarius Outdoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-Out-Curve.png)|
 
 # [Cesspool](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/Cesspool/)
 **Permanent rainfall leads to daily flooding. Do not stay too long...**
@@ -46,11 +46,11 @@ The swampy terrain hides many precious resources beneath the surface. Countless 
 
 # Moon Details
 
-| Name | Risk Level | Cost | Interior | Map Size Multiplier | Minimum Scrap | Maximum Scrap | Max Indoor Power | Max Outdoor Power | Weather |
+| Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weather |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Cesspool | Hurry | 0 | Factory | 1.2 | 15 | 19 | 8 | 14 | Always Flooded |
+| Cesspool | Hurry | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.2 | 15 | 19 | 8 | 14 | Always Flooded |
 
-| Interior Enemies | Spawn Chance |  | Exterior Enemies | Spawn Chance |
+| Indoor Enemies | Spawn Chance |  | Outdoor Enemies | Spawn Chance |
 |:-:|:-:|:-:|:-:|:-:|
 | [Hygrodere](https://lethal.miraheze.org/wiki/Hygrodere) | 18.70% | | [Eyeless Dog](https://lethal.miraheze.org/wiki/Eyeless_Dog) | 35.96% |
 | [Spore Lizard](https://lethal.miraheze.org/wiki/Spore_Lizard) | 17.89% | | [Earth Leviathan](https://lethal.miraheze.org/wiki/Earth_Leviathan) | 33.33% |
@@ -60,6 +60,6 @@ The swampy terrain hides many precious resources beneath the surface. Countless 
 | [Bunker Spider](https://lethal.miraheze.org/wiki/Bunker_Spider)| 13.01% | | | |
 | [Braken](https://lethal.miraheze.org/wiki/Bracken) | 4.07% | | [*Circuit Bees*](https://lethal.miraheze.org/wiki/Circuit_Bees) | 63.39% |
 
-| Interior Spawn Curve | Exterior Spawn Curve |
+| Indoor Spawn Curve | Outdoor Spawn Curve |
 |:-:|:-:|
-|![Cesspool Interior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-In-Curve.png)|![Cesspool Exterior Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-Out-Curve.png)|
+|![Cesspool Indoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-In-Curve.png)|![Cesspool Outdoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-Out-Curve.png)|
