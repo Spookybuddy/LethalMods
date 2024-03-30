@@ -15,7 +15,7 @@ The large space station provides a rest stop for refueling and supplies. Large h
 
 <div align="center"> Map has minimal scrap spawns, providing ample chance to find custom scrap if those mods are also installed. </div>
  
-# Moon Details
+## Moon Details
 
 | Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -44,7 +44,7 @@ The swampy terrain hides many precious resources beneath the surface. Countless 
 
 <div align="center"> The planet has since been abandoned, leaving the treasure-filled buildings to be reclaimed by the planet's flora and fauna. </div>
 
-# Moon Details
+## Moon Details
 
 | Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weather |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
