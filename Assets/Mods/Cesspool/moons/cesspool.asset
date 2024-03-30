@@ -60,7 +60,7 @@ MonoBehaviour:
     Rarity: 7
   _SpawnableScrap:
   - ObjectName: Cog1
-    SpawnWeight: 35
+    SpawnWeight: 17
   - ObjectName: FishTestProp
     SpawnWeight: 64
   - ObjectName: Flask
@@ -70,25 +70,25 @@ MonoBehaviour:
   - ObjectName: BottleBin
     SpawnWeight: 32
   - ObjectName: ChemicalJug
-    SpawnWeight: 17
+    SpawnWeight: 35
   - ObjectName: SteeringWheel
     SpawnWeight: 47
   - ObjectName: MoldPan
     SpawnWeight: 16
   - ObjectName: PickleJar
     SpawnWeight: 69
-  - ObjectName: RubberDuckie
+  - ObjectName: RubberDuck
     SpawnWeight: 12
   - ObjectName: Airhorn
-    SpawnWeight: 11
+    SpawnWeight: 10
   - ObjectName: GoldBar
     SpawnWeight: 2
   - ObjectName: YieldSign
     SpawnWeight: 19
   - ObjectName: StopSign
     SpawnWeight: 24
-  - ObjectName: RedSoda
-    SpawnWeight: 32
+  - ObjectName: SodaCanRed
+    SpawnWeight: 33
   spawnableScrapBlacklist: []
   MinScrap: 15
   MaxScrap: 19
@@ -295,7 +295,7 @@ MonoBehaviour:
   LevelIncludesSnowFootprints: 0
   serializedRandomWeatherTypes: 4,-144,144
   serializedDungeonFlowTypes: 0,93;1,7
-  serializedSpawnableScrap: Cog1,35;FishTestProp,64;Flask,50;BigBolt,40;BottleBin,32;ChemicalJug,17;SteeringWheel,47;MoldPan,16;PickleJar,69;RubberDuckie,12;Airhorn,11;GoldBar,2;YieldSign,19;StopSign,24;RedSoda,32
+  serializedSpawnableScrap: Cog1,17;FishTestProp,64;Flask,50;BigBolt,40;BottleBin,32;ChemicalJug,35;SteeringWheel,47;MoldPan,16;PickleJar,69;RubberDuck,12;Airhorn,10;GoldBar,2;YieldSign,19;StopSign,24;SodaCanRed,33
   serializedEnemies: Centipede,19;HoarderBug,21;Flowerman,5;Crawler,17;Puffer,22;Blob,23;SandSpider,16
   serializedOutsideEnemies: MouthDog,41;BaboonHawk,8;ForestGiant,25;SandWorm,38;Blob,2
   serializedDaytimeEnemies: RedLocustBees,71;DocileLocustBees,41
