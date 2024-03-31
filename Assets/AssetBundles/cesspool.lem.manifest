@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1547927512
+CRC: 3272160505
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ebcf5dd7b9295bcab5a569df960a20a2
+    Hash: 40009667309f6e88e0d8b96bce775182
   TypeTreeHash:
     serializedVersion: 2
     Hash: 138a35f99154598f9842741da75eacce
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ebcf5dd7b9295bcab5a569df960a20a2
+    Hash: 40009667309f6e88e0d8b96bce775182
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -213,9 +213,8 @@ Assets:
 - Assets/Mods/Cesspool/textures/custom/MainEntrance.png
 - Assets/Mods/Cesspool/moons/sewers.prefab
 - Assets/Mods/Cesspool/materials/drain.mat
-- Assets/Mods/Cesspool/moons/sewersNavMesh.asset
-- Assets/Mods/Cesspool/textures/substance/floor_mask.png
 - Assets/Mods/Cesspool/textures/substance/Terrain_Albedo_HD.png
+- Assets/Mods/Cesspool/textures/substance/floor_mask.png
 - Assets/Mods/Cesspool/textures/substance/Cess-Drain_DefaultMaterial_Normal.png
 - Assets/Mods/Cesspool/textures/substance/Cess-Pipe_Material_Normal.png
 - Assets/Mods/Cesspool/textures/custom/Posts_Rust.png
@@ -273,6 +272,7 @@ Assets:
 - Assets/Mods/Cesspool/modmanifest.asset
 - Assets/Mods/Cesspool/materials/farlands.mat
 - Assets/Mods/Cesspool/textures/substance/floor_alpha.png
+- Assets/Mods/Cesspool/moons/sewersNavMesh.asset
 - Assets/Mods/Cesspool/textures/substance/Cess-Drain_DefaultMaterial_MaskMap.png
 - Assets/Mods/Cesspool/moons/cesspool.asset
 - Assets/Mods/Cesspool/textures/substance/Cess-Block_DefaultMaterial_BaseMap.png

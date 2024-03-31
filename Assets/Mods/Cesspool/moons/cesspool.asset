@@ -120,25 +120,52 @@ MonoBehaviour:
       tangentMode: 0
       weightedMode: 3
       inWeight: 0
-      outWeight: 0.12297855
+      outWeight: 0.151837
     - serializedVersion: 3
-      time: 0.4084456
-      value: 5.2203364
-      inSlope: 50.523705
-      outSlope: 50.523705
+      time: 0.1667
+      value: -2.5
+      inSlope: 3.0021727
+      outSlope: 3.0021727
       tangentMode: 0
       weightedMode: 3
-      inWeight: 0.39946607
-      outWeight: 0.28031763
+      inWeight: 0.4578709
+      outWeight: 0.3212426
     - serializedVersion: 3
-      time: 0.7216382
-      value: 3.997507
+      time: 0.3333
+      value: 0
+      inSlope: 20.686552
+      outSlope: 20.686552
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.31885323
+      outWeight: 0.40927607
+    - serializedVersion: 3
+      time: 0.5
+      value: 5
+      inSlope: 11.924505
+      outSlope: 11.924505
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.091981724
+      outWeight: 0.26431474
+    - serializedVersion: 3
+      time: 0.6667
+      value: 2
       inSlope: 2.616315
       outSlope: 2.616315
       tangentMode: 0
       weightedMode: 3
-      inWeight: 0.29010764
-      outWeight: 0.5360636
+      inWeight: 0.28430802
+      outWeight: 0.38478577
+    - serializedVersion: 3
+      time: 0.8333
+      value: 6
+      inSlope: 44.707996
+      outSlope: 44.707996
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.2816232
+      outWeight: 0.5018366
     - serializedVersion: 3
       time: 1
       value: 14.957588
@@ -146,7 +173,7 @@ MonoBehaviour:
       outSlope: 5.9741244
       tangentMode: 0
       weightedMode: 1
-      inWeight: 0.12752241
+      inWeight: 0.16317715
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -168,7 +195,7 @@ MonoBehaviour:
         inWeight: 0
         outWeight: 0.2713006
       - serializedVersion: 3
-        time: 0.55
+        time: 0.5
         value: 1
         inSlope: 4.017303
         outSlope: 4.017303
@@ -177,8 +204,8 @@ MonoBehaviour:
         inWeight: 0.244657
         outWeight: 0.37152186
       - serializedVersion: 3
-        time: 0.82
-        value: 2
+        time: 0.8
+        value: 3
         inSlope: 7.064207
         outSlope: 7.064207
         tangentMode: 0
@@ -223,28 +250,64 @@ MonoBehaviour:
       time: 0
       value: -3
       inSlope: -Infinity
-      outSlope: 5.5555553
+      outSlope: 0
       tangentMode: 69
       weightedMode: 3
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 0.18
+      time: 0.1667
+      value: -3
+      inSlope: -0
+      outSlope: 0.69728684
+      tangentMode: 5
+      weightedMode: 3
+      inWeight: 0.5108629
+      outWeight: 0.4002417
+    - serializedVersion: 3
+      time: 0.3333
       value: -2
-      inSlope: 29.048048
-      outSlope: 29.048048
+      inSlope: 31.86148
+      outSlope: 31.86148
       tangentMode: 0
       weightedMode: 3
-      inWeight: 0.21085063
-      outWeight: 0.4734847
+      inWeight: 0.13528249
+      outWeight: 0.34474155
+    - serializedVersion: 3
+      time: 0.5
+      value: 1.5
+      inSlope: 13.847578
+      outSlope: 13.847578
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.32036826
+      outWeight: 0.35317785
+    - serializedVersion: 3
+      time: 0.6667
+      value: 3
+      inSlope: -0.8945608
+      outSlope: -0.8945608
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.18257649
+      outWeight: 0.30044642
+    - serializedVersion: 3
+      time: 0.8333
+      value: 5
+      inSlope: 17.71277
+      outSlope: 17.71277
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.1605712
+      outWeight: 0.34246174
     - serializedVersion: 3
       time: 1
       value: 7.5
-      inSlope: 67.26841
-      outSlope: 67.26841
+      inSlope: 0.0000042732477
+      outSlope: 0.0000042732477
       tangentMode: 0
       weightedMode: 3
-      inWeight: 0.12782893
+      inWeight: 1
       outWeight: 0.48315445
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -254,7 +317,7 @@ MonoBehaviour:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 2.2706568
+      value: 3
       inSlope: -7.5000854
       outSlope: -7.5000854
       tangentMode: 0
@@ -262,8 +325,8 @@ MonoBehaviour:
       inWeight: 0.33333334
       outWeight: 0.20650266
     - serializedVersion: 3
-      time: 0.38507816
-      value: -0.006410897
+      time: 0.4
+      value: 0
       inSlope: -2.7670975
       outSlope: -2.7670975
       tangentMode: 0
@@ -271,8 +334,8 @@ MonoBehaviour:
       inWeight: 0.28388944
       outWeight: 0.30659768
     - serializedVersion: 3
-      time: 0.6767025
-      value: -7.0216584
+      time: 0.6667
+      value: -7
       inSlope: -27.286888
       outSlope: -27.286888
       tangentMode: 0
@@ -280,8 +343,8 @@ MonoBehaviour:
       inWeight: 0.10391547
       outWeight: 0.12503523
     - serializedVersion: 3
-      time: 0.9998173
-      value: -14.818101
+      time: 1
+      value: -10
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -299,5 +362,5 @@ MonoBehaviour:
   serializedEnemies: Centipede,19;HoarderBug,21;Flowerman,5;Crawler,17;Puffer,22;Blob,23;SandSpider,16
   serializedOutsideEnemies: MouthDog,41;BaboonHawk,8;ForestGiant,25;SandWorm,38;Blob,2
   serializedDaytimeEnemies: RedLocustBees,71;DocileLocustBees,41
-  serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":0.23179344832897187,"outSlope":0.23179344832897187,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27130061388015749},{"serializedVersion":"3","time":0.550000011920929,"value":1.0,"inSlope":4.017302989959717,"outSlope":4.017302989959717,"tangentMode":0,"weightedMode":3,"inWeight":0.2446569949388504,"outWeight":0.37152186036109927},{"serializedVersion":"3","time":0.8199999928474426,"value":2.0,"inSlope":7.064207077026367,"outSlope":7.064207077026367,"tangentMode":0,"weightedMode":3,"inWeight":0.2839883863925934,"outWeight":0.6898177862167358},{"serializedVersion":"3","time":1.0,"value":14.0,"inSlope":968.80810546875,"outSlope":968.80810546875,"tangentMode":0,"weightedMode":3,"inWeight":0.029036391526460649,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
+  serializedSpawnableMapObjects: Landmine|False|{"curve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":-0.003082275390625,"value":0.0,"inSlope":0.23179344832897187,"outSlope":0.23179344832897187,"tangentMode":0,"weightedMode":2,"inWeight":0.0,"outWeight":0.27130061388015749},{"serializedVersion":"3","time":0.5,"value":1.0,"inSlope":4.017302989959717,"outSlope":4.017302989959717,"tangentMode":0,"weightedMode":3,"inWeight":0.2446569949388504,"outWeight":0.37152186036109927},{"serializedVersion":"3","time":0.800000011920929,"value":3.0,"inSlope":7.064207077026367,"outSlope":7.064207077026367,"tangentMode":0,"weightedMode":3,"inWeight":0.2839883863925934,"outWeight":0.6898177862167358},{"serializedVersion":"3","time":1.0,"value":14.0,"inSlope":968.80810546875,"outSlope":968.80810546875,"tangentMode":0,"weightedMode":3,"inWeight":0.029036391526460649,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}
   serializedSpawnableOutsideObjects: 
