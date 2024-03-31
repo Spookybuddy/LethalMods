@@ -87,3 +87,12 @@ The planet has since been abandoned, leaving the treasure-filled buildings to be
 | Indoor Spawn Curve | Outdoor Spawn Curve |
 |:-:|:-:|
 |![Cesspool Indoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-In-Curve.png)|![Cesspool Outdoor Spawn Curve](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Cess-Out-Curve.png)|
+
+‎ 
+
+# Credits
+All assets within the Solarius and Cesspool mods belong to me.
+
+Lethal SDK and its assets belong to [HolographicWings](https://github.com/HolographicWings/).
+
+Lethal Company and all of its assets belong to Zeekerss.
