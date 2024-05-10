@@ -1,3 +1,10 @@
+<div align="center">
+ 
+# This Repository is Deprecated
+# Check out the Lethal Level Loader version [here](https://github.com/Spookybuddy/LethalLoaderMods)
+
+</div>
+
 # LethalMods
 Made using [Lethal Company SDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
 
